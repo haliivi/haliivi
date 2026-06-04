@@ -1,10 +1,9 @@
-## Hi there 👋
+# Hi there! I'm Alexey Sotnichenko 👋
 
 ---
 
 ### 📈 GitHub Activity
-![haliivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haliivi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haliivi&layout=compact&theme=dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haliivi&theme=tokyonight&hide_border=true)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
