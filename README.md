@@ -2,7 +2,7 @@
 
 ### 📊 LeetCode Stats
 
-<p>
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/haliivi?theme=dark&font=Recursive" alt="LeetCode Stats" />
 </p>
 
