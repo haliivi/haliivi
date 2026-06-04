@@ -1,5 +1,11 @@
 # Hi there! I'm Alexey Sotnichenko 👋
 
+### 📊 LeetCode Stats
+
+<p>
+  <img src="https://leetcard.jacoblin.cool/haliivi?theme=dark&font=Recursive" alt="LeetCode Stats" />
+</p>
+
 ---
 
 ### 📈 GitHub Activity
