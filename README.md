@@ -1,6 +1,8 @@
 # Hi there! I'm Alexey Sotnichenko 👋
 
-<p align="left"><a href="https://linkedin.com/in/haliivi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a><a href="https://huggingface.co/haliivi" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-ffcc00?style=for-the-badge" alt="Hugging Face Profile"></a><a href="mailto:haliivi@mail.ru"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"></a></p>
+<p align="left">
+  <a href="https://linkedin.com/in/haliivi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>&nbsp;&nbsp;<a href="https://huggingface.co/haliivi" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-ffcc00?style=for-the-badge" alt="Hugging Face Profile"></a>&nbsp;&nbsp;<a href="mailto:haliivi@mail.ru"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"></a>
+</p>
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently focusing on **Backend Development (Python/Go)** and **Artificial Intelligence**.
@@ -9,13 +11,12 @@
 
 ---
 
-### 🚀 Coding Journey & Problem Solving
+### 📊 Performance & Development Metrics
 
-### 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/haliivi?theme=dark&font=Recursive" alt="LeetCode Stats" />
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/haliivi?theme=dark&font=Recursive" width="400" align="middle" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haliivi&theme=nord&hide_border=true&bg_color=0D1117" width="600" align="middle" />
+</div>
 
 ---
 
@@ -33,12 +34,7 @@
 
 ---
 
-### 📈 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haliivi&theme=tokyonight&hide_border=true)
-
----
-
 ### 🤝 Connect with me
 - 📧 Email: [haliivi@mail.ru](mailto:haliivi@mail.ru)
-- 💼 LinkedIn: [haliivi](https://linkedin.com/in/haliivi)
+- 💼 LinkedIn: [alexey-sotnichenko](https://linkedin.com/in/haliivi)
 - 🤗 Hugging Face: [@haliivi](https://huggingface.co/haliivi)
