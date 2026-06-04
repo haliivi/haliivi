@@ -6,16 +6,15 @@
   </a>
 </p>
 
-### 📊 LeetCode Stats
+### 🚀 Coding Journey & Problem Solving
+
+###№ 📊 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/haliivi?theme=dark&font=Recursive" alt="LeetCode Stats" />
 </p>
 
 ---
-
-### 📈 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haliivi&theme=tokyonight&hide_border=true)
 
 ### 🛠 Tech Stack
 
@@ -65,4 +64,8 @@
 
 ---
 
-### 📂 Top Repositories
+### 📈 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haliivi&theme=tokyonight&hide_border=true)
+
+### 🤝 Connect with me
+[<img src="https://img.shields.io/badge/Hugging%20Face-Profile-ffcc00?style=for-the-badge&logo=huggingface&logoColor=white" />](https://huggingface.co/haliivi)
