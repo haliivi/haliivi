@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### GitHub Activity
+![haliivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haliivi&show_icons=true&theme=dark)
+
 <!--
 **haliivi/haliivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
