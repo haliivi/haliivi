@@ -1,12 +1,13 @@
 # Hi there! I'm Alexey Sotnichenko 👋
 
-<p align="left">
-  <a href="https://huggingface.co/haliivi" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-ffcc00?style=for-the-badge" alt="Hugging Face Profile">
-  </a><a href="mailto:haliivi@mail.ru">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
-</p>
+<p align="left"><a href="https://linkedin.com/in/haliivi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a><a href="https://huggingface.co/haliivi" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-ffcc00?style=for-the-badge" alt="Hugging Face Profile"></a><a href="mailto:haliivi@mail.ru"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"></a></p>
+
+### 👨‍💻 About Me
+- 🔭 I’m currently focusing on **Backend Development (Python/Go)** and **Artificial Intelligence**.
+- 💡 I enjoy participating in the **full development lifecycle**, from initial idea to production.
+- ⚙️ Skilled in **DevOps** automation and infrastructure management.
+
+---
 
 ### 🚀 Coding Journey & Problem Solving
 
@@ -72,7 +73,6 @@
 ---
 
 ### 🤝 Connect with me
-- **Email:** [haliivi@mail.ru](mailto:haliivi@mail.ru)
-- **Hugging Face:** [huggingface.co/haliivi](https://huggingface.co/haliivi)
-
-[<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haliivi@mail.ru)
+- 📧 Email: [haliivi@mail.ru](mailto:haliivi@mail.ru)
+- 💼 LinkedIn: [haliivi](https://linkedin.com/in/haliivi)
+- 🤗 Hugging Face: [@haliivi](https://huggingface.co/haliivi)
