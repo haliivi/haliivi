@@ -4,6 +4,9 @@
   <a href="https://huggingface.co/haliivi" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-ffcc00?style=for-the-badge" alt="Hugging Face Profile">
   </a>
+  <a href="mailto:haliivi@mail.ru">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
 </p>
 
 ### 🚀 Coding Journey & Problem Solving
@@ -67,5 +70,10 @@
 ### 📈 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haliivi&theme=tokyonight&hide_border=true)
 
+---
+
 ### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/Hugging%20Face-Profile-ffcc00?style=for-the-badge&logo=huggingface&logoColor=white" />](https://huggingface.co/haliivi)
+- **Email:** [haliivi@example.com](mailto:haliivi@mail.ru)
+- **Hugging Face:** [huggingface.co/haliivi](https://huggingface.co/haliivi)
+
+[<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haliivi@mail.ru)
