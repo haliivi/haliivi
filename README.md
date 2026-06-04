@@ -73,7 +73,7 @@
 ---
 
 ### 🤝 Connect with me
-- **Email:** [haliivi@example.com](mailto:haliivi@mail.ru)
+- **Email:** [haliivi@mail.ru](mailto:haliivi@mail.ru)
 - **Hugging Face:** [huggingface.co/haliivi](https://huggingface.co/haliivi)
 
 [<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haliivi@mail.ru)
