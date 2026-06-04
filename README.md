@@ -3,8 +3,7 @@
 <p align="left">
   <a href="https://huggingface.co/haliivi" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-ffcc00?style=for-the-badge" alt="Hugging Face Profile">
-  </a>
-  <a href="mailto:haliivi@mail.ru">
+  </a><a href="mailto:haliivi@mail.ru">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
 </p>
